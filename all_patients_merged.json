@@ -1,0 +1,5696 @@
+[
+  {
+    "mrn": "DB0064",
+    "first_name": "Alan",
+    "last_name": "Dever",
+    "dob": "1952-04-16",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8Q46V74TE85",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I42.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0002",
+    "first_name": "Alice",
+    "last_name": "Gregory",
+    "dob": "1947-12-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3RV5AA3DY54",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "H04.129",
+      "I51.4",
+      "C50.911",
+      "E03.9",
+      "I10",
+      "I50.20"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000062",
+    "first_name": "Allen",
+    "last_name": "Lewis",
+    "dob": "1957-06-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8F40EM2WE16",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "K64.9",
+      "B19.20",
+      "E11.9",
+      "E78.5",
+      "I10",
+      "I72.9",
+      "N40.0"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000067",
+    "first_name": "Allen",
+    "last_name": "Mc Nair",
+    "dob": "1951-08-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5XD9UT2ER14",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "E27.9",
+      "I10",
+      "I50.30",
+      "K57.93"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000065",
+    "first_name": "Arnold",
+    "last_name": "Martin",
+    "dob": "1947-03-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4AJ0HC6MV42",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "F32",
+      "G70.9",
+      "I10",
+      "K21.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0031",
+    "first_name": "Asuncion",
+    "last_name": "Ramos",
+    "dob": "1942-08-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1GN6RO4TW75",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0069",
+    "first_name": "Betty",
+    "last_name": "Sherwood",
+    "dob": "1943-03-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8KA0FKCW36",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0005",
+    "first_name": "Billy",
+    "last_name": "Turner",
+    "dob": "1950-04-19",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5RC0HC8TJ07",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "I11.9",
+      "J44.9",
+      "K70.30",
+      "K86.1",
+      "N18.30",
+      "Q89.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0010",
+    "first_name": "Bonnolyn",
+    "last_name": "Durden",
+    "dob": "1942-12-17",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8UA8EH9VE3",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0099",
+    "first_name": "Breh",
+    "last_name": "Alexander",
+    "dob": "2018-09-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG911462234",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0084",
+    "first_name": "Buddy",
+    "last_name": "Tso",
+    "dob": "1961-08-19",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0027",
+    "first_name": "Carlos",
+    "last_name": "Gochi-garcia",
+    "dob": "1942-07-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6P50PN8JQ26",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "I10",
+      "I62.00",
+      "M47.812",
+      "N18.30"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0050",
+    "first_name": "Carol",
+    "last_name": "Griseca",
+    "dob": "1950-06-27",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9QD2PA9VV27",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "R05.3",
+      "E66.01",
+      "F20.9",
+      "F32.9",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0016",
+    "first_name": "Charalambos",
+    "last_name": "Lenakakis",
+    "dob": "1951-11-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1UT7M05NT66",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.1",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000045",
+    "first_name": "Charles",
+    "last_name": "Frieson",
+    "dob": "1943-01-24",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5T82EP7VU11",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "D64.9",
+      "E78.00",
+      "I10",
+      "J44.9",
+      "K21.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "BD0012",
+    "first_name": "Cheung",
+    "last_name": "Chun",
+    "dob": "1939-09-08",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5AD0EV2XP12",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0018",
+    "first_name": "Choi",
+    "last_name": "Chu",
+    "dob": "1925-01-03",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1YJ9YM5NG41",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0105",
+    "first_name": "Chun",
+    "last_name": "Hung",
+    "dob": "1932-12-23",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1U74W08TR79",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000006",
+    "first_name": "Craig",
+    "last_name": "Oconnor",
+    "dob": "1955-02-03",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8QH7D51VR57",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "G31.9",
+      "G93.89",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0017",
+    "first_name": "Dan",
+    "last_name": "Fong",
+    "dob": "1940-05-03",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901473456",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000005",
+    "first_name": "Dannette",
+    "last_name": "Nunley",
+    "dob": "1959-03-03",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3JW1YQ6JU91",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "F10.180",
+      "G30.9",
+      "G40.901",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000064",
+    "first_name": "Darlene",
+    "last_name": "Martin",
+    "dob": "1955-06-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7QA7W98UX56",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0014",
+    "first_name": "Debra",
+    "last_name": "Miller",
+    "dob": "1951-10-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2J90XV5QK26",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000040",
+    "first_name": "Deronto",
+    "last_name": "Davidson",
+    "dob": "1938-02-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6YY8HX1HP58",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "R56.9",
+      "D64.9",
+      "E78.00",
+      "G30.9",
+      "I10",
+      "J44.9",
+      "K21.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0035",
+    "first_name": "Eddie",
+    "last_name": "Williams",
+    "dob": "1943-04-17",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3YV3PD2YV81",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0066",
+    "first_name": "Esther",
+    "last_name": "Cobb",
+    "dob": "1940-11-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901020814",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL005",
+    "first_name": "Franklin",
+    "last_name": "Welz",
+    "dob": "1936-11-07",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7D59XE3YC55",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "C61",
+      "E03.9",
+      "I10",
+      "I35.0",
+      "I48.91",
+      "I50.32",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0102",
+    "first_name": "Fu",
+    "last_name": "Huang",
+    "dob": "1953-03-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901618508",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0028",
+    "first_name": "Fusen",
+    "last_name": "Liang",
+    "dob": "1936-09-14",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "106986571M",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0008",
+    "first_name": "Gloria",
+    "last_name": "Allen",
+    "dob": "1940-09-30",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9Y26F47FU65",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0012",
+    "first_name": "Greagory",
+    "last_name": "Moorehead",
+    "dob": "1952-04-08",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9J88V94XC30",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0019",
+    "first_name": "Guo",
+    "last_name": "Chen",
+    "dob": "1949-06-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2UH3YP8DE18",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0113",
+    "first_name": "Ha",
+    "last_name": "Cheung",
+    "dob": "1951-02-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7KK8H24XJ54",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0029",
+    "first_name": "Harry",
+    "last_name": "Crosby",
+    "dob": "1947-10-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3VU1NY2GK22",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "J06.9",
+      "R05.8",
+      "R91.8",
+      "I10",
+      "I25.10",
+      "J96.11"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0108",
+    "first_name": "Helen",
+    "last_name": "Tcheng",
+    "dob": "1969-06-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7KKBH24XJ54",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0006",
+    "first_name": "Hortenz",
+    "last_name": "Bankswright",
+    "dob": "1954-08-02",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "IPG0N78XG38",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0025",
+    "first_name": "Huanlan",
+    "last_name": "Mei",
+    "dob": "1946-10-14",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2FG4HH3QW91",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0014",
+    "first_name": "Huanqing",
+    "last_name": "Chen",
+    "dob": "1953-08-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6W96NY6PP79",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0017",
+    "first_name": "Jacqueline",
+    "last_name": "Mazan",
+    "dob": "1938-10-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8WK7QX4XC57",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "I50.32",
+      "N18.30"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "BD0015",
+    "first_name": "Jacqueline",
+    "last_name": "Tubbs",
+    "dob": "1945-10-12",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9RG6YC7UF88",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0023",
+    "first_name": "James",
+    "last_name": "Bradley",
+    "dob": "1930-12-19",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1DH0QU7HK43",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0106",
+    "first_name": "James",
+    "last_name": "Blankenburg",
+    "dob": "1941-10-10",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8N33F06WE15",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1356714943",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000038",
+    "first_name": "James",
+    "last_name": "Cross",
+    "dob": "1954-02-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9MK9P15NC47",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "E78.00",
+      "I10",
+      "M10.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0020",
+    "first_name": "Jeffrey",
+    "last_name": "Posner",
+    "dob": "1943-06-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6YW3DH8NW02",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0062",
+    "first_name": "Jerry",
+    "last_name": "Arethas",
+    "dob": "1938-02-23",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1FQ2XU5WH27",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0112",
+    "first_name": "Joann",
+    "last_name": "Baraksa",
+    "dob": "1948-06-12",
+    "sex": "",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1356714943",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "M85.88",
+      "E11.9",
+      "E78.5",
+      "M48.061",
+      "M81.0"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0025",
+    "first_name": "John",
+    "last_name": "Fallah",
+    "dob": "1946-12-24",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5CV4FY0JR90",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0030",
+    "first_name": "John",
+    "last_name": "Imlah",
+    "dob": "1927-09-08",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4G49JE3KV58",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E10.9",
+      "H40.9",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0053",
+    "first_name": "Joseph",
+    "last_name": "Niemiec",
+    "dob": "1939-02-07",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7GM4YF0DA80",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10",
+      "I48.21",
+      "I48.91",
+      "I50.32",
+      "N18.32",
+      "N18.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0041",
+    "first_name": "Jungjung",
+    "last_name": "Mui",
+    "dob": "1933-02-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1XJ4A32EK64",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0081",
+    "first_name": "Kar",
+    "last_name": "Lau",
+    "dob": "1941-12-22",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9E88YT6MN66",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0089",
+    "first_name": "Laipei",
+    "last_name": "Peng",
+    "dob": "1934-10-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3MK9TT3NA37",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0075",
+    "first_name": "Li",
+    "last_name": "Zhong",
+    "dob": "1950-05-04",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9QP3Q66CR02",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0029",
+    "first_name": "Lijuan",
+    "last_name": "Mei",
+    "dob": "1941-11-26",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "106987890M",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000021",
+    "first_name": "Lillian",
+    "last_name": "Tillman",
+    "dob": "1943-06-02",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9MC8P39UD42",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "I20.9",
+      "K21.9",
+      "E78.00"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0020",
+    "first_name": "Lizhen",
+    "last_name": "Zhao",
+    "dob": "1951-07-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9N51WF8FX02",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0087",
+    "first_name": "Man",
+    "last_name": "Wa",
+    "dob": "1936-06-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1FV9N24TK13",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E03.2",
+      "E78.5",
+      "I71.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000063",
+    "first_name": "Marilyn",
+    "last_name": "Lightfoot",
+    "dob": "1945-10-27",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5H19Q92UY58",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "R30.0",
+      "E78.00",
+      "G30.9",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0009",
+    "first_name": "Marilyn",
+    "last_name": "Spartz",
+    "dob": "1958-05-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7XU0HC9GP35",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10",
+      "M16.11",
+      "M16.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0017",
+    "first_name": "Marrian",
+    "last_name": "Sanders",
+    "dob": "1934-04-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5WH2WX7PF99",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0004",
+    "first_name": "Mary",
+    "last_name": "Brady",
+    "dob": "1951-10-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1W71DJ1AQ98",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.00"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0015",
+    "first_name": "Maureen",
+    "last_name": "Brady",
+    "dob": "1960-03-16",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6WY2M21QT11",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "F32.9",
+      "I10",
+      "K21.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0109",
+    "first_name": "Merrill",
+    "last_name": "Huang",
+    "dob": "1995-02-22",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "QMF921646548",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0008",
+    "first_name": "Mevlida",
+    "last_name": "Ljuscic",
+    "dob": "1950-06-12",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8YG2Y44UE27",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000023",
+    "first_name": "Michael",
+    "last_name": "Webb",
+    "dob": "1958-05-07",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4CN7H06TA59",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0057",
+    "first_name": "Micheal",
+    "last_name": "Termine",
+    "dob": "1947-08-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9QWSY72C090",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0047",
+    "first_name": "Ming",
+    "last_name": "Wu",
+    "dob": "1948-06-17",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7CA2H19MG84",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0115",
+    "first_name": "Mingchun",
+    "last_name": "Chen",
+    "dob": "1951-07-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3MN8M20CA38",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0034",
+    "first_name": "Nancy",
+    "last_name": "Sczubleski",
+    "dob": "1952-12-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2WA7CD7VJ65",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1356714943",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "J44.0"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0093",
+    "first_name": "Nancy",
+    "last_name": "Tran",
+    "dob": "1940-01-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5TJ3V64YK74",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0055",
+    "first_name": "Neng",
+    "last_name": "Ho",
+    "dob": "1945-08-23",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6U47PK5RH79",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0061",
+    "first_name": "Patricia",
+    "last_name": "Hung",
+    "dob": "1948-10-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1EU4HT2AT78",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0040",
+    "first_name": "Pei",
+    "last_name": "Wu",
+    "dob": "1936-02-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2VE7VE7VR74",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000055",
+    "first_name": "Ralph",
+    "last_name": "Hopkins",
+    "dob": "1947-09-26",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3J95V75CJ55",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "E78.00",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0007",
+    "first_name": "Redzep",
+    "last_name": "Ljuscic",
+    "dob": "1944-10-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1X84AF2WA07",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0093",
+    "first_name": "Rita",
+    "last_name": "Thibodeaux",
+    "dob": "1934-02-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7UF6VH1WG70",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0064",
+    "first_name": "Robert",
+    "last_name": "Williams",
+    "dob": "1926-03-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2F92JH1UV84",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0018",
+    "first_name": "Ronnie",
+    "last_name": "Smith",
+    "dob": "1953-12-13",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6V29HK7CX19",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0029",
+    "first_name": "Ruth",
+    "last_name": "Kaiser",
+    "dob": "1931-08-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6FK1M95AQ19",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "F32",
+      "C16.9",
+      "E03.9",
+      "E78.5",
+      "G45.9",
+      "I10",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "MS0194",
+    "first_name": "Ruya",
+    "last_name": "Guan",
+    "dob": "1946-09-10",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5UC6X01JK30",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "BD0049",
+    "first_name": "Saiqing",
+    "last_name": "Lin",
+    "dob": "1938-07-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3HY1EV8MF01",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0084",
+    "first_name": "Sandra",
+    "last_name": "Hart",
+    "dob": "1935-09-09",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4HH6W36NW52",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E03.9",
+      "I10",
+      "I11.9",
+      "I25.5",
+      "I44.7",
+      "I62.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0077",
+    "first_name": "Sandy",
+    "last_name": "Stein",
+    "dob": "1955-09-22",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2F25Q18HF55",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "M85.9",
+      "R39.15",
+      "E11.9",
+      "E78.5",
+      "I10",
+      "M43.10",
+      "N32.81",
+      "R32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0088",
+    "first_name": "Sheila",
+    "last_name": "Macdougall",
+    "dob": "1948-06-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2RH7H73NE20",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0043",
+    "first_name": "Shijie",
+    "last_name": "Shi",
+    "dob": "1941-09-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4KQ8C70AG36",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I11",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0107",
+    "first_name": "Shuk",
+    "last_name": "Hung",
+    "dob": "1940-11-02",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6Q63MW6AR08",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I12",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0088",
+    "first_name": "Shukkan",
+    "last_name": "Yu",
+    "dob": "1951-11-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1J91R27CJ05",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "Z85.3",
+      "E78.5",
+      "I10",
+      "I51.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0014",
+    "first_name": "Suellyn",
+    "last_name": "Miller",
+    "dob": "1936-09-12",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3M62Q76VK13",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0092",
+    "first_name": "Suetfong",
+    "last_name": "Tseung",
+    "dob": "1939-09-26",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7Q11JY9AD01",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "R52",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0120",
+    "first_name": "Susan",
+    "last_name": "Lindeen",
+    "dob": "1958-07-14",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3P32EH5DN82",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1356714943",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "G30.9",
+      "G45.9",
+      "I63.9",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000014",
+    "first_name": "Sylvia",
+    "last_name": "Lai",
+    "dob": "1937-06-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5KT3T815H00",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "HHS0032",
+    "first_name": "Victor",
+    "last_name": "Mcwilliams",
+    "dob": "1946-01-08",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3T20WH4JA31",
+    "status": "Active",
+    "facility": "House of Hollywood",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I26.99",
+      "G47.33",
+      "I10",
+      "I61.4",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0045",
+    "first_name": "Wai",
+    "last_name": "Tan",
+    "dob": "1944-02-06",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901021017",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0016",
+    "first_name": "Wan",
+    "last_name": "Fong",
+    "dob": "1936-10-29",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8T45CD4KY52",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0006",
+    "first_name": "Wanqing",
+    "last_name": "Su",
+    "dob": "1946-01-16",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901013037",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0032",
+    "first_name": "Xijian",
+    "last_name": "Deng",
+    "dob": "1958-10-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "QMD921431089",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0116",
+    "first_name": "Xing",
+    "last_name": "Liu",
+    "dob": "1934-08-14",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4AH9K43YW22",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0054",
+    "first_name": "Xui",
+    "last_name": "Ho Cheng",
+    "dob": "1954-04-04",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8N31KR8NW99",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0022",
+    "first_name": "Yanzuan",
+    "last_name": "Deng",
+    "dob": "1941-12-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4WY4HW8NP89",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0013",
+    "first_name": "Yaolong",
+    "last_name": "Lei",
+    "dob": "1949-09-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2VG9NV3QV39",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0038",
+    "first_name": "Ying",
+    "last_name": "Chen",
+    "dob": "1937-10-08",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3W09R00AP39",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0026",
+    "first_name": "Yu",
+    "last_name": "Mei",
+    "dob": "1951-10-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1P30KG0XU07",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0076",
+    "first_name": "Yuechan",
+    "last_name": "Li",
+    "dob": "1954-12-13",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6MH4XM0PE78",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0106",
+    "first_name": "Yuet",
+    "last_name": "Moy",
+    "dob": "1944-07-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5RC5N61XC51",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0070",
+    "first_name": "Yuexian",
+    "last_name": "Wu",
+    "dob": "1952-06-06",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9R06G30QU64",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0042",
+    "first_name": "Yuying",
+    "last_name": "Sun",
+    "dob": "1946-05-26",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3QW0C26TA16",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0039",
+    "first_name": "Yvonne",
+    "last_name": "Scott",
+    "dob": "1949-02-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "XOG901587851",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0027",
+    "first_name": "Zhaoxi",
+    "last_name": "Mei",
+    "dob": "1951-07-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9RV1T33FQ17",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "BD0050",
+    "first_name": "Zhenguo",
+    "last_name": "Qiu",
+    "dob": "1934-08-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5PD0HT8PA41",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS200]",
+    "first_name": "Andrew",
+    "last_name": "Almaraz",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4N13X48GF83",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0104]",
+    "first_name": "Lynette",
+    "last_name": "Simon",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8KR0YM2FK39",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0105]",
+    "first_name": "SHERE",
+    "last_name": "FOSTER",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8M58QG8JN54",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0107]",
+    "first_name": "Russell",
+    "last_name": "Townsend",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9JU7HV8JW51",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0108]",
+    "first_name": "Eva",
+    "last_name": "Janice",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5x71A41PR00",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0110]",
+    "first_name": "MASAMUSA",
+    "last_name": "A",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9U45X84CR86",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0111]",
+    "first_name": "Dennis",
+    "last_name": "Nowden",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1RH4CH7WF99",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0112]",
+    "first_name": "Renee",
+    "last_name": "Prentiss",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5CX7C60HT51",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0113]",
+    "first_name": "Charles",
+    "last_name": "Travis",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9UY5WR9RP79",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0117]",
+    "first_name": "Toleus",
+    "last_name": "McCullum",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5G05A42PR52",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0120]",
+    "first_name": "Margaret",
+    "last_name": "Morris",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4KF7CW7XP64",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0121]",
+    "first_name": "Ida",
+    "last_name": "Motes",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9GP0UJ7RT04",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0122]",
+    "first_name": "Richard",
+    "last_name": "Whirl",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9FJ9FG3FK34",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0123]",
+    "first_name": "CLINTON",
+    "last_name": "SMITH",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3HW8NM1TD57",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0131]",
+    "first_name": "CHARLES",
+    "last_name": "EARL",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2T72PK0WW22",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0103]",
+    "first_name": "SHARON",
+    "last_name": "ADAMS",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4Y70FW4AE10",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS203]",
+    "first_name": "William",
+    "last_name": "Brown",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2AX3X21KF71",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS201]",
+    "first_name": "Phillip",
+    "last_name": "Martin",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4F67F40KE77",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS206]",
+    "first_name": "JACK",
+    "last_name": "DAVIS",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8PJ2EC7UY85",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS207]",
+    "first_name": "GREGORY",
+    "last_name": "CARTER",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6Q49KY5QA43",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS208]",
+    "first_name": "Betty",
+    "last_name": "Johnson",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5HM0UA8DJ25",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS209]",
+    "first_name": "GILDA",
+    "last_name": "LASTER",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5P25FX9QJ60",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS220]",
+    "first_name": "Dolores",
+    "last_name": "Martinez",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4GH5KH1RY64",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[MIS121]",
+    "first_name": "Larry",
+    "last_name": "Hood",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7EG4EY1HC74",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0133]",
+    "first_name": "Marshall",
+    "last_name": "OLIPHANT",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8XM3WV4UK76",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0134]",
+    "first_name": "ameshia",
+    "last_name": "Odom",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3AF0P17HV19",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0136]",
+    "first_name": "Ray",
+    "last_name": "king",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5K19W21EK57",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0137]",
+    "first_name": "Linda",
+    "last_name": "baity",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4EJ8GT1UH22",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0145]",
+    "first_name": "SAMUEL",
+    "last_name": "COUCH",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6FG9FG4UP35",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0146]",
+    "first_name": "RICHARD",
+    "last_name": "A",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6G71AN1EK04",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0062]",
+    "first_name": "ANTHONY",
+    "last_name": "M",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1C41V89KN93",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0005]",
+    "first_name": "Willie",
+    "last_name": "Rogers",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1PH4G45TA04",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0006]",
+    "first_name": "AMALIA",
+    "last_name": "CORTEZ",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9JQ4D79UX99",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0011]",
+    "first_name": "Alan",
+    "last_name": "Beaty",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5EN9XJ7YX37",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0013]",
+    "first_name": "Christine",
+    "last_name": "Kimble",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7QE6KJ6DQ54",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0019]",
+    "first_name": "TORRIE",
+    "last_name": "FARRELL",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2JG0T49YG10",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0034]",
+    "first_name": "JUANITA",
+    "last_name": "MCCAMURY",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3UR9R85YR45",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0036]",
+    "first_name": "SHERMAN",
+    "last_name": "JOHNSON",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7C95VG3NK95",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0042]",
+    "first_name": "EDWARD",
+    "last_name": "MARTIN",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6YY5QF8VN98",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0056]",
+    "first_name": "OSCAR",
+    "last_name": "LOVE",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4AG4VW6VU09",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0058]",
+    "first_name": "Charles",
+    "last_name": "RAWLS",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2GQ3TH6UU06",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0060]",
+    "first_name": "PAMELA",
+    "last_name": "N",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1P95W09AP89",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0063]",
+    "first_name": "Veronica",
+    "last_name": "Stansberry",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1AG7YWOFT77",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0064]",
+    "first_name": "Sheila",
+    "last_name": "M",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9VH6WY6VM54",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0069]",
+    "first_name": "Rochelle",
+    "last_name": "Johnson",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7TK5TN8KP60",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0070]",
+    "first_name": "Marvin",
+    "last_name": "LEE",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1AW1GT5XH11",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0071]",
+    "first_name": "LYNDA",
+    "last_name": "ARTHUR",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1X65WH1KT89",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0072]",
+    "first_name": "Benita",
+    "last_name": "Johnson",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7U89-U62-MK15",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0079]",
+    "first_name": "Tina",
+    "last_name": "DAVIS",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9GC6HG1YM79",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0092]",
+    "first_name": "Michael",
+    "last_name": "L",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4FG9U40KT47",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0093]",
+    "first_name": "Anthony",
+    "last_name": "Rodgers",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2FY7GC2QE51",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0095]",
+    "first_name": "Sheila",
+    "last_name": "Washington",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8TA6F12KT73",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0096]",
+    "first_name": "Bernisteen",
+    "last_name": "Sofowora",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5AE4WC1ET76",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0097]",
+    "first_name": "TOMMY",
+    "last_name": "CALDWELL",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4Y32VF5TR95",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0100]",
+    "first_name": "ELARRIA",
+    "last_name": "HILL",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7H04V59FJ96",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "[Mis0101]",
+    "first_name": "ELZINA",
+    "last_name": "HILL",
+    "dob": "",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5NY4R79KK06",
+    "status": "Active",
+    "facility": "MISC",
+    "physician": "Miariesha Brown",
+    "physician_npi": "1750927661",
+    "programs": [
+      "BHI",
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "F32",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000015",
+    "first_name": "Anita",
+    "last_name": "Smith",
+    "dob": "1957-10-14",
+    "sex": "",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000010",
+    "first_name": "Brenda",
+    "last_name": "Phillips",
+    "dob": "1949-09-10",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5TR3N70DG77",
+    "status": "De-enrolled",
+    "facility": "pioneer gardens",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.00",
+      "G70.9",
+      "I10",
+      "M19.90"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000001",
+    "first_name": "Harold",
+    "last_name": "Jones",
+    "dob": "1936-06-15",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "095712956",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000032",
+    "first_name": "James",
+    "last_name": "Barnett",
+    "dob": "1940-07-21",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "2TQ8DU6WN61",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "P78.83",
+      "R30.0",
+      "F10.180",
+      "J44.9",
+      "K21.9",
+      "N40.0"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000042",
+    "first_name": "Jaye",
+    "last_name": "Dickens",
+    "dob": "1950-11-23",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4XJ0MA9DJ13",
+    "status": "Active",
+    "facility": "pioneer gardens",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "K21.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000050",
+    "first_name": "Bill",
+    "last_name": "Gleason",
+    "dob": "1955-03-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7PC3MK0DE92",
+    "status": "De-enrolled",
+    "facility": "Senior Suites",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "F32",
+      "R30.0",
+      "E11.9",
+      "E78.00",
+      "I10",
+      "K21.9",
+      "N40.0"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SSH0009",
+    "first_name": "Catherine",
+    "last_name": "Green",
+    "dob": "1956-03-17",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1NG5PJ3NT88",
+    "status": "Active",
+    "facility": "Senior Suites",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0107",
+    "first_name": "Aeemee",
+    "last_name": "Allen",
+    "dob": "1961-05-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "3U03JR4VR72",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "M19.019"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0054",
+    "first_name": "Albert",
+    "last_name": "Neukuckatz",
+    "dob": "1927-03-16",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6JH8VN6TF68",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "N17.9",
+      "I10",
+      "I50.32",
+      "I51.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0049",
+    "first_name": "Barbara",
+    "last_name": "Holt",
+    "dob": "1947-02-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6RG6UH3CQ74",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "Z17.0",
+      "C50.911",
+      "I10",
+      "J44.1",
+      "J96.11"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0010",
+    "first_name": "Bradley",
+    "last_name": "Lehigh",
+    "dob": "1960-11-19",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1A41D20GG08",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "P78.83",
+      "E78.5",
+      "F33.42",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0035",
+    "first_name": "Carmella",
+    "last_name": "Santini",
+    "dob": "1933-05-18",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "7HC3F39QT94",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0078",
+    "first_name": "Connie",
+    "last_name": "Knudsen",
+    "dob": "1949-11-28",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5R76DA1GP77NH",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10",
+      "J44.9",
+      "N18.30"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0002",
+    "first_name": "Daniel",
+    "last_name": "Mankowski",
+    "dob": "1948-07-31",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9YX7YQ3AP40",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E55.9",
+      "E78.5"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0096",
+    "first_name": "Dolores",
+    "last_name": "Hathaway",
+    "dob": "1929-06-25",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6AY3N53RK96",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0046",
+    "first_name": "Dolores",
+    "last_name": "Moody",
+    "dob": "1900-01-02",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "5FT2EU9RN92",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "J18.9",
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL006",
+    "first_name": "Edward",
+    "last_name": "Dougherty",
+    "dob": "1952-08-01",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4NN8WN5PN69",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0019",
+    "first_name": "Georjean",
+    "last_name": "Brasch",
+    "dob": "1943-08-20",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "IB01AK4MR32",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "P78.83",
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0086",
+    "first_name": "Gerald",
+    "last_name": "Jacobs",
+    "dob": "1950-03-11",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "4VWOF38QF39",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "R07.9",
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0060",
+    "first_name": "James",
+    "last_name": "Hammons",
+    "dob": "1947-04-17",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "6KU6MW3JK42",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "F22",
+      "Z79.01",
+      "F01.511",
+      "F03.90",
+      "I10",
+      "I63.9",
+      "I67.81"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0082",
+    "first_name": "Jane",
+    "last_name": "Haskin",
+    "dob": "1951-03-31",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1F88UY4QU32",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "D63.1",
+      "G89.4",
+      "I10",
+      "N18.32"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0072",
+    "first_name": "Jean",
+    "last_name": "Wrigley",
+    "dob": "1943-12-05",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8MG6WR6HA83",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0005",
+    "first_name": "John",
+    "last_name": "Mc Elhose",
+    "dob": "1950-01-10",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1YW77JP2YU71",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "I10",
+      "N18.30"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0013",
+    "first_name": "Karen",
+    "last_name": "Knudsen",
+    "dob": "1937-09-27",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "9J59TC7KF10",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0028",
+    "first_name": "Linda",
+    "last_name": "Mcgurn",
+    "dob": "1942-08-31",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8EK2CY0JX95",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "G43.909",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "SAL0071",
+    "first_name": "Lydia",
+    "last_name": "Gurevich",
+    "dob": "1940-10-12",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "8HG2UW9NM93",
+    "status": "Active",
+    "facility": "Solscites at palatine",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "N39.0",
+      "I10",
+      "I50.9",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "DB0095",
+    "first_name": "Chun Zao",
+    "last_name": "Yu",
+    "dob": "1937-11-29",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "349660712",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E78.5",
+      "I10"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "C000054",
+    "first_name": "Irmogene",
+    "last_name": "Hardy",
+    "dob": "1945-11-04",
+    "sex": "",
+    "insurance": "Medicare",
+    "member_id": "1E94UQ7GG63",
+    "status": "Active",
+    "facility": "The Oaks",
+    "physician": "Benedicta Olagbegbi",
+    "physician_npi": "1356714943",
+    "programs": [
+      "CCM"
+    ],
+    "dx_codes": [
+      "E11.9",
+      "E78.5",
+      "J44.9"
+    ],
+    "source": "BHI_CCM"
+  },
+  {
+    "mrn": "nan",
+    "first_name": "Cecilia",
+    "last_name": "Segura",
+    "dob": "1934-07-29",
+    "sex": "None",
+    "insurance": "Medicare",
+    "member_id": "9QG2AY7GQ26",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "1700642923",
+    "programs": [
+      "BHI"
+    ],
+    "dx_codes": [
+      "I10, F32.A"
+    ],
+    "source": "ClaimMD"
+  },
+  {
+    "mrn": "DB0063",
+    "first_name": "Aizhen",
+    "last_name": "Qi",
+    "dob": "1950-02-13",
+    "sex": "F",
+    "phone": "+1(312)-292-6845",
+    "email": null,
+    "address_line": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0011",
+    "first_name": "Alan",
+    "last_name": "Beaty",
+    "dob": "1967-05-01",
+    "sex": "M",
+    "phone": "+1(872)-368-4887",
+    "email": "alicekvacca2@gmail.com",
+    "address_line": "12728 S Sangamon St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643-6623",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "102871000119101",
+      "197928006",
+      "191812006",
+      "1201005",
+      "192080009",
+      "22234005",
+      "55607006",
+      "11157007"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS200",
+    "first_name": "Andrew",
+    "last_name": "Almaraz",
+    "dob": "1966-01-17",
+    "sex": "M",
+    "phone": "+1(773)-664-3439",
+    "email": "T19501962@gmail.com",
+    "address_line": "109 e 43rd st apt 202",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60653",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0096",
+    "first_name": "Bernisteen",
+    "last_name": "Sofowora",
+    "dob": "1959-02-27",
+    "sex": "M",
+    "phone": "+1(708)-475-3721",
+    "email": "koolad1234@yahoo.com",
+    "address_line": "10236 S King DR,Apt 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628-2115",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS208",
+    "first_name": "Betty",
+    "last_name": "Johnson",
+    "dob": "1948-04-09",
+    "sex": "M",
+    "phone": null,
+    "email": "moorean1992@gmail.com",
+    "address_line": "221 e tulip dr Glenwood il 60425",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60425",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0077",
+    "first_name": "Brenda",
+    "last_name": "Hampton-Blake",
+    "dob": "1969-03-26",
+    "sex": "F",
+    "phone": "+1(872)-370-2239",
+    "email": "Bhamptonblake77@gmail.com",
+    "address_line": "6726 S Loomis Blvd,Apt 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636-2925",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0131",
+    "first_name": "CHARLES",
+    "last_name": "MHOON",
+    "dob": "1958-10-25",
+    "sex": "M",
+    "phone": "+1(872)-353-6115",
+    "email": "charlesmhooon58@yahoo.com",
+    "address_line": "5635 S SEELEY",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0123",
+    "first_name": "CLINTON",
+    "last_name": "SMITH JR",
+    "dob": "1957-09-11",
+    "sex": "M",
+    "phone": "+1(773)-250-0900",
+    "email": "clintonsmith15429@gmail.com",
+    "address_line": "135 E 103rd St Apt 8",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0013",
+    "first_name": "Christine",
+    "last_name": "Kimble",
+    "dob": "1942-01-29",
+    "sex": "F",
+    "phone": "+1(773)-680-7893",
+    "email": "llcallnone@gmail.com",
+    "address_line": "11220 S. Homewood Ave.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "119831000119106",
+      "132721000119104",
+      "700379002",
+      "77075001",
+      "448241000124104",
+      "11503009",
+      "90782003"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0111",
+    "first_name": "Dennis",
+    "last_name": "Nowden",
+    "dob": "1954-11-01",
+    "sex": "M",
+    "phone": "+1(773)-993-3952",
+    "email": "dennisnowden@gmail.com",
+    "address_line": "9360 S Green ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-2712",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS220",
+    "first_name": "Dolores",
+    "last_name": "Martinez",
+    "dob": "1956-05-05",
+    "sex": "M",
+    "phone": "+1(464)-249-1705",
+    "email": "delomartinez0556@gmail.com",
+    "address_line": "3415 w diversey Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60647",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0108",
+    "first_name": "Eva",
+    "last_name": "Mitchell",
+    "dob": "1957-02-28",
+    "sex": "F",
+    "phone": "+1(773)-415-2538",
+    "email": "Mitchelleva22@yahoo.com",
+    "address_line": "431 W Englewood Ave,Apt 1b",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60621-3254",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS209",
+    "first_name": "GILDA",
+    "last_name": "LASTER",
+    "dob": "1961-09-09",
+    "sex": "M",
+    "phone": null,
+    "email": "gildalaster@gmail.com",
+    "address_line": "12640 Fairview Ave Apt 3 blue Islan",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60406",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS207",
+    "first_name": "GREGORY",
+    "last_name": "CARTER",
+    "dob": "1960-05-02",
+    "sex": "M",
+    "phone": "+1(773)-277-0288",
+    "email": "gregcarter931@yahoo.com",
+    "address_line": "4339 W 18TH PL",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS225",
+    "first_name": "Gilda",
+    "last_name": "Trader",
+    "dob": "1953-02-11",
+    "sex": "M",
+    "phone": "+1(773)-332-1707",
+    "email": "Gildastrader@yahoo.com",
+    "address_line": "10100 s Beverly Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0121",
+    "first_name": "Ida",
+    "last_name": "Motes",
+    "dob": "1955-04-07",
+    "sex": "F",
+    "phone": "+1(773)-905-9006",
+    "email": "idamotes12@gmail.com",
+    "address_line": "8244 S ADA STREET",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS206",
+    "first_name": "JACK",
+    "last_name": "DAVIS",
+    "dob": "1949-05-17",
+    "sex": "M",
+    "phone": "+1(773)-277-0288",
+    "email": "RESIDENT.SERVICES@MONTCLARE-SIF.COM",
+    "address_line": "4339 w 18TH PL, CHICAGO IL 60629",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60629",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0034",
+    "first_name": "JUANITA",
+    "last_name": "MCCAMURY",
+    "dob": "1972-12-11",
+    "sex": "M",
+    "phone": "+1(331)-343-7617",
+    "email": "juanita1972@gmail.com",
+    "address_line": "11518 S JUSTINE ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60643",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "238136002",
+      "433144002",
+      "134209002",
+      "40930008",
+      "170628003",
+      "48867003",
+      "271594007",
+      "235595009"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS121",
+    "first_name": "Larry",
+    "last_name": "Hood",
+    "dob": "1967-09-16",
+    "sex": "M",
+    "phone": "+1(847)-571-2058",
+    "email": "hoodlarry496@gmail.com",
+    "address_line": "11136 S Sangamon St, Chicago 60643",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0104",
+    "first_name": "Lynette",
+    "last_name": "Simon",
+    "dob": "1959-06-13",
+    "sex": "F",
+    "phone": "+1(708)-203-1901",
+    "email": "lynettesimon59@gmail.com",
+    "address_line": "14426 S Emerald Ave",
+    "city": "RIVERDALE",
+    "state": "IL",
+    "zip": "60827",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0116",
+    "first_name": "MAKENNA",
+    "last_name": "ELECHI",
+    "dob": "2002-03-05",
+    "sex": "F",
+    "phone": "+1(872)-380-5412",
+    "email": "makennaelechi23@gmail.com",
+    "address_line": "9415 S WESTERN  AVE,STE 118",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60643",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0120",
+    "first_name": "Margaret",
+    "last_name": "Morris",
+    "dob": "1952-02-22",
+    "sex": "F",
+    "phone": "+1(773)-758-8917",
+    "email": "mhillmorris52@gmail.com",
+    "address_line": "646 E 93rd st",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60619",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0133",
+    "first_name": "Marshall",
+    "last_name": "OLIPHANT",
+    "dob": "1959-06-15",
+    "sex": "M",
+    "phone": null,
+    "email": "marshalloliphant322@gmail.com",
+    "address_line": "9901 S YALE AVE",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0070",
+    "first_name": "Marvin",
+    "last_name": "Fleming",
+    "dob": "1963-08-07",
+    "sex": "M",
+    "phone": "+1(773)-663-9238",
+    "email": "fleminglee31@gmail.com",
+    "address_line": "7139 S Emerald St,2ND FL",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60607-2339",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0092",
+    "first_name": "Michael",
+    "last_name": "Isaac",
+    "dob": "1970-09-28",
+    "sex": "M",
+    "phone": "+1(847)-269-0812",
+    "email": "micheallisaac9@gmail.com",
+    "address_line": "6930 S South Shore Dr",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60649-1835",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "109041000119107",
+      "10725009"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0060",
+    "first_name": "PAMELA",
+    "last_name": "WARD",
+    "dob": "1947-03-23",
+    "sex": "F",
+    "phone": "+1(872)-380-7835",
+    "email": "pw136359@gmail.com",
+    "address_line": "8123 S INGLESIDE AVE,APT 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60619-5224",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "109041000119107",
+      "10725009",
+      "431856006",
+      "64859006",
+      "195967001"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS201",
+    "first_name": "Phillip",
+    "last_name": "Martin",
+    "dob": "1954-06-10",
+    "sex": "M",
+    "phone": "+1(773)-559-7745",
+    "email": "philmart5410@gmail.com",
+    "address_line": "1537 W. 79th St (Apt 2W)",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "06062",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0112",
+    "first_name": "Renee",
+    "last_name": "Prentiss",
+    "dob": "1956-09-10",
+    "sex": "M",
+    "phone": "+1(773)-512-0025",
+    "email": "rmjprentiss@gmail.com",
+    "address_line": "6700 S SOUTH SHORE DR,APT 17D",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60639-1313",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0126",
+    "first_name": "Richard",
+    "last_name": "Malone",
+    "dob": "1961-09-06",
+    "sex": "M",
+    "phone": "+1(773)-218-1818",
+    "email": "randyj347@gmail.com",
+    "address_line": "661 E 69th St Apt 14",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60637",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0122",
+    "first_name": "Richard",
+    "last_name": "Whirl",
+    "dob": "1965-04-08",
+    "sex": "M",
+    "phone": "+1(224)-469-6449",
+    "email": "rlwhirl@gmail.com",
+    "address_line": "7952 S ASHLAND AVE,2R",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0109",
+    "first_name": "Ronald",
+    "last_name": "Harris",
+    "dob": "1962-02-15",
+    "sex": "M",
+    "phone": "+1(312)-388-4675",
+    "email": "rondadon73@gmail.com",
+    "address_line": "7730 S Hoyne Ave",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-5739",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0107",
+    "first_name": "Russell",
+    "last_name": "Townsend",
+    "dob": "1963-09-04",
+    "sex": "M",
+    "phone": "+1(773)-891-3111",
+    "email": "afiawatts@gmail.com",
+    "address_line": "5300 S Hyde park Blvd,Apt 101",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60615-5717",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0129",
+    "first_name": "SARAH",
+    "last_name": "WALTERS",
+    "dob": "1994-07-02",
+    "sex": "F",
+    "phone": "+1(309)-635-0192",
+    "email": "sarawaters21@gmail.com",
+    "address_line": "720W JOAN CT",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip": "61614",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0103",
+    "first_name": "SHARON",
+    "last_name": "ADAMS",
+    "dob": "1959-12-25",
+    "sex": "M",
+    "phone": "+1(312)-961-1193",
+    "email": "naadams0111@gmail.com",
+    "address_line": "5928 S WINCHESTER AVE,BASEMENT",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0105",
+    "first_name": "SHERE",
+    "last_name": "FOSTER",
+    "dob": "1980-02-20",
+    "sex": "F",
+    "phone": "+1(708)-522-7631",
+    "email": "sherrie35.sf@gmail.com",
+    "address_line": "12147 s normal Ave",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628-6309",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0114",
+    "first_name": "TIA",
+    "last_name": "STROKES",
+    "dob": "2000-12-04",
+    "sex": "F",
+    "phone": null,
+    "email": "mimij402@gmail.com",
+    "address_line": "1408 EAST 72ND PL,APT 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60619",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0019",
+    "first_name": "TORRIE",
+    "last_name": "FARRELL",
+    "dob": "1965-02-10",
+    "sex": "M",
+    "phone": "+1(773)-983-0381",
+    "email": null,
+    "address_line": "7934 S BISHOP ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-3839",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0079",
+    "first_name": "Tina",
+    "last_name": "ANDREWS DAVIS",
+    "dob": "1967-03-13",
+    "sex": "F",
+    "phone": "+1(630)-914-4626",
+    "email": "19ttdavis345@gmail.com",
+    "address_line": "450 Rothbury Dr",
+    "city": "BOLINGBROOK",
+    "state": "IL",
+    "zip": "60440-2253",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0117",
+    "first_name": "Toleus",
+    "last_name": "McCullum",
+    "dob": "1960-04-13",
+    "sex": "M",
+    "phone": "+1(773)-815-0563",
+    "email": "Toleusmccullum458@gmail.com",
+    "address_line": "825 N Christiana ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60615",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "MIS203",
+    "first_name": "William",
+    "last_name": "Brown",
+    "dob": "1950-03-06",
+    "sex": "M",
+    "phone": "+1(773)-664-7270",
+    "email": "wilbrown1950@gmail.com",
+    "address_line": "10006 S Lafayette",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60628",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "185086009",
+      "112001000119100",
+      "129590000",
+      "44054006",
+      "235595009",
+      "248763005",
+      "10725009"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0128",
+    "first_name": "burnett",
+    "last_name": "cousins",
+    "dob": "1964-07-06",
+    "sex": "M",
+    "phone": null,
+    "email": "burnettcouins@gmail.com",
+    "address_line": "12301 S Bishop St Apt 13",
+    "city": "RIVERDALE",
+    "state": "IL",
+    "zip": "60827",
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  },
+  {
+    "mrn": "Mis0132",
+    "first_name": "richard",
+    "last_name": "carter",
+    "dob": "1971-04-06",
+    "sex": "M",
+    "phone": null,
+    "email": null,
+    "address_line": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "insurance": "",
+    "member_id": "",
+    "status": "Active",
+    "facility": "",
+    "physician": "",
+    "physician_npi": "",
+    "programs": [],
+    "dx_codes": [
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006",
+      "55607006"
+    ],
+    "source": "CCD"
+  }
+]
