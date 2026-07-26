@@ -1,0 +1,7909 @@
+[
+  {
+    "mrn": "DB0063",
+    "first_name": "Aizhen",
+    "last_name": "Qi",
+    "dob": "1950-02-13",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(312)-292-6845",
+    "email": null,
+    "address_line": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "source_file": "Aizhen_Qi_DB0063_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": null,
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0011",
+    "first_name": "Alan",
+    "last_name": "Beaty",
+    "dob": "1967-05-01",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(872)-368-4887",
+    "email": "alicekvacca2@gmail.com",
+    "address_line": "12728 S Sangamon St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643-6623",
+    "source_file": "Alan_Beaty_Mis0011_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "102871000119101",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Hypothyroidism due to thyroiditis",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "197928006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Chronic urinary tract infection",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "191812006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Episodic chronic alcoholism",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "1201005",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Benign essential hypertension",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "192080009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Chronic depression",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "22234005",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Open fracture shaft of tibia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "11157007",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Ventricular bigeminy",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "175",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "65",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BMI",
+        "loinc": "39156-5",
+        "value": "29.12",
+        "unit": null,
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "140",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "80",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "70",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "16",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS200",
+    "first_name": "Andrew",
+    "last_name": "Almaraz",
+    "dob": "1966-01-17",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-664-3439",
+    "email": "T19501962@gmail.com",
+    "address_line": "109 e 43rd st apt 202",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60653",
+    "source_file": "Andrew_Almaraz_MIS200_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0096",
+    "first_name": "Bernisteen",
+    "last_name": "Sofowora",
+    "dob": "1959-02-27",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(708)-475-3721",
+    "email": "koolad1234@yahoo.com",
+    "address_line": "10236 S King DR,Apt 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628-2115",
+    "source_file": "Bernisteen_Sofowora_Mis0096_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS208",
+    "first_name": "Betty",
+    "last_name": "Johnson",
+    "dob": "1948-04-09",
+    "sex": "M",
+    "race": null,
+    "phone": null,
+    "email": "moorean1992@gmail.com",
+    "address_line": "221 e tulip dr Glenwood il 60425",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60425",
+    "source_file": "Betty_Johnson_MIS208_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0077",
+    "first_name": "Brenda",
+    "last_name": "Hampton-Blake",
+    "dob": "1969-03-26",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(872)-370-2239",
+    "email": "Bhamptonblake77@gmail.com",
+    "address_line": "6726 S Loomis Blvd,Apt 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636-2925",
+    "source_file": "Brenda_Faye_Hampton-Blake_Mis0077_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0131",
+    "first_name": "CHARLES",
+    "last_name": "MHOON",
+    "dob": "1958-10-25",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(872)-353-6115",
+    "email": "charlesmhooon58@yahoo.com",
+    "address_line": "5635 S SEELEY",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636",
+    "source_file": "CHARLES_EARL_MHOON_Mis0131_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0123",
+    "first_name": "CLINTON",
+    "last_name": "SMITH JR",
+    "dob": "1957-09-11",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-250-0900",
+    "email": "clintonsmith15429@gmail.com",
+    "address_line": "135 E 103rd St Apt 8",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628",
+    "source_file": "CLINTON_SMITH_JR_Mis0123_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": null,
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0013",
+    "first_name": "Christine",
+    "last_name": "Kimble",
+    "dob": "1942-01-29",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(773)-680-7893",
+    "email": "llcallnone@gmail.com",
+    "address_line": "11220 S. Homewood Ave.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "source_file": "Christine_Kimble_Mis0013_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "119831000119106",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Hypoglycemia unawareness in type 2 diabetes mellitus",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "132721000119104",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Hypertensive emergency",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "700379002",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Chronic kidney disease stage 3B",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "77075001",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Primary open angle glaucoma",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "448241000124104",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "History of fracture of shoulder",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "11503009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Relative anemia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "90782003",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Post-cholecystectomy syndrome",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0111",
+    "first_name": "Dennis",
+    "last_name": "Nowden",
+    "dob": "1954-11-01",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-993-3952",
+    "email": "dennisnowden@gmail.com",
+    "address_line": "9360 S Green ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-2712",
+    "source_file": "Dennis_Nowden_Mis0111_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS220",
+    "first_name": "Dolores",
+    "last_name": "Martinez",
+    "dob": "1956-05-05",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(464)-249-1705",
+    "email": "delomartinez0556@gmail.com",
+    "address_line": "3415 w diversey Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60647",
+    "source_file": "Dolores_Martinez_MIS220_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0108",
+    "first_name": "Eva",
+    "last_name": "Mitchell",
+    "dob": "1957-02-28",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(773)-415-2538",
+    "email": "Mitchelleva22@yahoo.com",
+    "address_line": "431 W Englewood Ave,Apt 1b",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60621-3254",
+    "source_file": "Eva_Janice_Mitchell_Mis0108_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS209",
+    "first_name": "GILDA",
+    "last_name": "LASTER",
+    "dob": "1961-09-09",
+    "sex": "M",
+    "race": null,
+    "phone": null,
+    "email": "gildalaster@gmail.com",
+    "address_line": "12640 Fairview Ave Apt 3 blue Islan",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60406",
+    "source_file": "GILDA_LASTER_MIS209_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS207",
+    "first_name": "GREGORY",
+    "last_name": "CARTER",
+    "dob": "1960-05-02",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-277-0288",
+    "email": "gregcarter931@yahoo.com",
+    "address_line": "4339 W 18TH PL",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "source_file": "GREGORY_CARTER_MIS207_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS225",
+    "first_name": "Gilda",
+    "last_name": "Trader",
+    "dob": "1953-02-11",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-332-1707",
+    "email": "Gildastrader@yahoo.com",
+    "address_line": "10100 s Beverly Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "source_file": "Gilda_Trader_MIS225_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0121",
+    "first_name": "Ida",
+    "last_name": "Motes",
+    "dob": "1955-04-07",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(773)-905-9006",
+    "email": "idamotes12@gmail.com",
+    "address_line": "8244 S ADA STREET",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "source_file": "Ida_Motes_Mis0121_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "0",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "0",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "144",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "77",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "80",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Temperature",
+        "loinc": "8310-5",
+        "value": "98",
+        "unit": "F",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "16",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "SPO2",
+        "loinc": "59408-5",
+        "value": "98",
+        "unit": "%",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS206",
+    "first_name": "JACK",
+    "last_name": "DAVIS",
+    "dob": "1949-05-17",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-277-0288",
+    "email": "RESIDENT.SERVICES@MONTCLARE-SIF.COM",
+    "address_line": "4339 w 18TH PL, CHICAGO IL 60629",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60629",
+    "source_file": "JACK_DAVIS_MIS206_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0034",
+    "first_name": "JUANITA",
+    "last_name": "MCCAMURY",
+    "dob": "1972-12-11",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(331)-343-7617",
+    "email": "juanita1972@gmail.com",
+    "address_line": "11518 S JUSTINE ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60643",
+    "source_file": "JUANITA_MCCAMURY_Mis0034_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "238136002",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Morbid obesity",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "433144002",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "CKD stage 3",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "134209002",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Prolactinoma",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "40930008",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Hypothyroidism",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "170628003",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Airways obstruction irreversible",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "48867003",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Bradycardia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "271594007",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Syncope",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "235595009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "GERD - Gastro-esophageal reflux disease",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "0",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "0",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "121",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "78",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "71",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Temperature",
+        "loinc": "8310-5",
+        "value": "98",
+        "unit": "F",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "15",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS121",
+    "first_name": "Larry",
+    "last_name": "Hood",
+    "dob": "1967-09-16",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(847)-571-2058",
+    "email": "hoodlarry496@gmail.com",
+    "address_line": "11136 S Sangamon St, Chicago 60643",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60643",
+    "source_file": "Larry_Hood_MIS121_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0104",
+    "first_name": "Lynette",
+    "last_name": "Simon",
+    "dob": "1959-06-13",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(708)-203-1901",
+    "email": "lynettesimon59@gmail.com",
+    "address_line": "14426 S Emerald Ave",
+    "city": "RIVERDALE",
+    "state": "IL",
+    "zip": "60827",
+    "source_file": "Lynette_Simon_Mis0104_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0116",
+    "first_name": "MAKENNA",
+    "last_name": "ELECHI",
+    "dob": "2002-03-05",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(872)-380-5412",
+    "email": "makennaelechi23@gmail.com",
+    "address_line": "9415 S WESTERN  AVE,STE 118",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60643",
+    "source_file": "MAKENNA_KENDI_ELECHI_Mis0116_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-21",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-21",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-21",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-21",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-21",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0120",
+    "first_name": "Margaret",
+    "last_name": "Morris",
+    "dob": "1952-02-22",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(773)-758-8917",
+    "email": "mhillmorris52@gmail.com",
+    "address_line": "646 E 93rd st",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60619",
+    "source_file": "Margaret_Morris_Mis0120_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0133",
+    "first_name": "Marshall",
+    "last_name": "OLIPHANT",
+    "dob": "1959-06-15",
+    "sex": "M",
+    "race": null,
+    "phone": null,
+    "email": "marshalloliphant322@gmail.com",
+    "address_line": "9901 S YALE AVE",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628",
+    "source_file": "Marshall_OLIPHANT_Mis0133_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0070",
+    "first_name": "Marvin",
+    "last_name": "Fleming",
+    "dob": "1963-08-07",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-663-9238",
+    "email": "fleminglee31@gmail.com",
+    "address_line": "7139 S Emerald St,2ND FL",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60607-2339",
+    "source_file": "Marvin_LEE_Fleming_Mis0070_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0092",
+    "first_name": "Michael",
+    "last_name": "Isaac",
+    "dob": "1970-09-28",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(847)-269-0812",
+    "email": "micheallisaac9@gmail.com",
+    "address_line": "6930 S South Shore Dr",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60649-1835",
+    "source_file": "Michael_L_Isaac_Mis0092_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "109041000119107",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Complex dyslipidemia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "10725009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Benign hypertension",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0060",
+    "first_name": "PAMELA",
+    "last_name": "WARD",
+    "dob": "1947-03-23",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(872)-380-7835",
+    "email": "pw136359@gmail.com",
+    "address_line": "8123 S INGLESIDE AVE,APT 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60619-5224",
+    "source_file": "PAMELA_N_WARD_Mis0060_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "109041000119107",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Complex dyslipidemia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "10725009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Benign hypertension",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "431856006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "CKD stage 2",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "64859006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Osteoporosis",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "195967001",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Asthma",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS201",
+    "first_name": "Phillip",
+    "last_name": "Martin",
+    "dob": "1954-06-10",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-559-7745",
+    "email": "philmart5410@gmail.com",
+    "address_line": "1537 W. 79th St (Apt 2W)",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "06062",
+    "source_file": "Phillip_Martin_MIS201_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0112",
+    "first_name": "Renee",
+    "last_name": "Prentiss",
+    "dob": "1956-09-10",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-512-0025",
+    "email": "rmjprentiss@gmail.com",
+    "address_line": "6700 S SOUTH SHORE DR,APT 17D",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60639-1313",
+    "source_file": "Renee_Prentiss_Mis0112_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "0",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "0",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "138",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "86",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "85",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "16",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0126",
+    "first_name": "Richard",
+    "last_name": "Malone",
+    "dob": "1961-09-06",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-218-1818",
+    "email": "randyj347@gmail.com",
+    "address_line": "661 E 69th St Apt 14",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60637",
+    "source_file": "Richard_Malone_Mis0126_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0122",
+    "first_name": "Richard",
+    "last_name": "Whirl",
+    "dob": "1965-04-08",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(224)-469-6449",
+    "email": "rlwhirl@gmail.com",
+    "address_line": "7952 S ASHLAND AVE,2R",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60620",
+    "source_file": "Richard_Whirl_Mis0122_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-22",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0109",
+    "first_name": "Ronald",
+    "last_name": "Harris",
+    "dob": "1962-02-15",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(312)-388-4675",
+    "email": "rondadon73@gmail.com",
+    "address_line": "7730 S Hoyne Ave",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-5739",
+    "source_file": "Ronald_Harris_Mis0109_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0107",
+    "first_name": "Russell",
+    "last_name": "Townsend",
+    "dob": "1963-09-04",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-891-3111",
+    "email": "afiawatts@gmail.com",
+    "address_line": "5300 S Hyde park Blvd,Apt 101",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60615-5717",
+    "source_file": "Russell_Townsend_Mis0107_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0129",
+    "first_name": "SARAH",
+    "last_name": "WALTERS",
+    "dob": "1994-07-02",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(309)-635-0192",
+    "email": "sarawaters21@gmail.com",
+    "address_line": "720W JOAN CT",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip": "61614",
+    "source_file": "SARAH_MARIE_WALTERS_Mis0129_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0103",
+    "first_name": "SHARON",
+    "last_name": "ADAMS",
+    "dob": "1959-12-25",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(312)-961-1193",
+    "email": "naadams0111@gmail.com",
+    "address_line": "5928 S WINCHESTER AVE,BASEMENT",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60636",
+    "source_file": "SHARON_ADAMS_Mis0103_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0105",
+    "first_name": "SHERE",
+    "last_name": "FOSTER",
+    "dob": "1980-02-20",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(708)-522-7631",
+    "email": "sherrie35.sf@gmail.com",
+    "address_line": "12147 s normal Ave",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60628-6309",
+    "source_file": "SHERE_FOSTER_Mis0105_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0114",
+    "first_name": "TIA",
+    "last_name": "STROKES",
+    "dob": "2000-12-04",
+    "sex": "F",
+    "race": null,
+    "phone": null,
+    "email": "mimij402@gmail.com",
+    "address_line": "1408 EAST 72ND PL,APT 1",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60619",
+    "source_file": "TIA_STROKES_Mis0114_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": null,
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0019",
+    "first_name": "TORRIE",
+    "last_name": "FARRELL",
+    "dob": "1965-02-10",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-983-0381",
+    "email": null,
+    "address_line": "7934 S BISHOP ST",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60620-3839",
+    "source_file": "TORRIE_FARRELL_Mis0019_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "0",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "0",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "111",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "73",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "70",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "16",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0079",
+    "first_name": "Tina",
+    "last_name": "ANDREWS DAVIS",
+    "dob": "1967-03-13",
+    "sex": "F",
+    "race": null,
+    "phone": "+1(630)-914-4626",
+    "email": "19ttdavis345@gmail.com",
+    "address_line": "450 Rothbury Dr",
+    "city": "BOLINGBROOK",
+    "state": "IL",
+    "zip": "60440-2253",
+    "source_file": "Tina_A_ANDREWS_DAVIS_Mis0079_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": "Weight",
+        "loinc": "29463-7",
+        "value": "0",
+        "unit": "[lb_av]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Height",
+        "loinc": "8302-2",
+        "value": "0",
+        "unit": "[in_i]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Systolic",
+        "loinc": "8480-6",
+        "value": "120",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "BP Diastolic",
+        "loinc": "8462-4",
+        "value": "72",
+        "unit": "mm[Hg]",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Pulse Rate",
+        "loinc": "8867-4",
+        "value": "68",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      },
+      {
+        "name": "Respiratory Rate",
+        "loinc": "9279-1",
+        "value": "17",
+        "unit": "/min",
+        "recorded_at": "2025-10-16"
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0117",
+    "first_name": "Toleus",
+    "last_name": "McCullum",
+    "dob": "1960-04-13",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-815-0563",
+    "email": "Toleusmccullum458@gmail.com",
+    "address_line": "825 N Christiana ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60615",
+    "source_file": "Toleus_McCullum_Mis0117_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "MIS203",
+    "first_name": "William",
+    "last_name": "Brown",
+    "dob": "1950-03-06",
+    "sex": "M",
+    "race": null,
+    "phone": "+1(773)-664-7270",
+    "email": "wilbrown1950@gmail.com",
+    "address_line": "10006 S Lafayette",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60628",
+    "source_file": "William_Brown_MIS203_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "185086009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Chronic obstructive bronchitis",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "112001000119100",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Positive screening for depression on PHQ-9",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "129590000",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Exogenous hyperlipidemia",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "44054006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Type 2 diabetes mellitus",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "235595009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "GERD - Gastro-esophageal reflux disease",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "248763005",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Cannot be aroused sexually",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "10725009",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Benign hypertension",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0128",
+    "first_name": "burnett",
+    "last_name": "cousins",
+    "dob": "1964-07-06",
+    "sex": "M",
+    "race": null,
+    "phone": null,
+    "email": "burnettcouins@gmail.com",
+    "address_line": "12301 S Bishop St Apt 13",
+    "city": "RIVERDALE",
+    "state": "IL",
+    "zip": "60827",
+    "source_file": "burnett_cousins_Mis0128_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  },
+  {
+    "mrn": "Mis0132",
+    "first_name": "richard",
+    "last_name": "carter",
+    "dob": "1971-04-06",
+    "sex": "M",
+    "race": null,
+    "phone": null,
+    "email": null,
+    "address_line": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "source_file": "richard_carter_Mis0132_ClinicalSummary.xml",
+    "problems": [
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      },
+      {
+        "code": "55607006",
+        "code_system": "2.16.840.1.113883.6.96",
+        "description": "Problem",
+        "onset_date": "2025-10-16",
+        "status": "completed"
+      }
+    ],
+    "vitals": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "recorded_at": null
+      }
+    ],
+    "medications": [
+      {
+        "name": null,
+        "rxnorm": null,
+        "dose": null,
+        "dose_unit": null,
+        "route": null,
+        "start_date": null
+      }
+    ],
+    "allergies": [
+      {
+        "substance": null,
+        "reaction": "Allergy to substance",
+        "code": "419199007"
+      }
+    ],
+    "labs": [
+      {
+        "name": null,
+        "loinc": null,
+        "value": null,
+        "unit": null,
+        "ref_range": null,
+        "flag": null,
+        "resulted_at": null
+      }
+    ],
+    "encounters": [
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      },
+      {
+        "type": null,
+        "code": null,
+        "dos": null,
+        "provider": null
+      }
+    ]
+  }
+]
