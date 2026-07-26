@@ -15,4 +15,5 @@ reports/*
 !reports/.gitkeep
 !reports/latest_monitor.json
 sql/stg_*.sql
+sql/sally_health_sqlite_dump.sql
 data/
