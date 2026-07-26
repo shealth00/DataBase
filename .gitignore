@@ -1,0 +1,16 @@
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+imports/*
+!imports/README.md
+!imports/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+secrets/*
+!secrets/.gitignore
+reports/*
+!reports/.gitkeep
+!reports/latest_monitor.json
