@@ -323,7 +323,8 @@ def promote_bhi_to_patients(conn: sqlite3.Connection, batch_id: str) -> int:
                 facility=COALESCE(NULLIF(excluded.facility,''), patients.facility),
                 physician=COALESCE(NULLIF(excluded.physician,''), patients.physician),
                 physician_npi=COALESCE(NULLIF(excluded.physician_npi,''), patients.physician_npi),
-                source=excluded.source,
+                -- Keep canonical seed source (BHI_CCM/CCD); only stamp sheet source on inserts.
+                source=COALESCE(NULLIF(patients.source, ''), excluded.source),
                 updated_at=datetime('now')
             """,
             (
