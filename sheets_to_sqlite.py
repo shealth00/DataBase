@@ -36,6 +36,11 @@ DEFAULT_DB = ROOT / "data" / "sally_health.db"
 DEFAULT_IMPORTS = ROOT / "imports"
 SCHEMA = ROOT / "sqlite_schema.sql"
 SECRETS = ROOT / "secrets"
+PATIENT_NS = uuid.UUID("6ba7b810-9dad-11d1-80b4-00c04fd430c8")
+
+
+def patient_id_for(mrn: str) -> str:
+    return str(uuid.uuid5(PATIENT_NS, mrn.strip()))
 
 # Column layout from ingest_bhi_ccm_rpm.py summary reports
 BHI_COL = {
@@ -298,7 +303,7 @@ def promote_bhi_to_patients(conn: sqlite3.Connection, batch_id: str) -> int:
         existing = conn.execute(
             "SELECT patient_id FROM patients WHERE mrn = ?", (mrn,)
         ).fetchone()
-        patient_id = existing["patient_id"] if existing else str(uuid.uuid4())
+        patient_id = existing["patient_id"] if existing else patient_id_for(mrn)
         source = f"sheet:{r['source_file']}"
         conn.execute(
             """
@@ -511,13 +516,16 @@ def process_files(
     files: list[Path],
     promote: bool,
     program_override: str | None,
+    batch_id_override: str | None = None,
 ) -> None:
     if not files:
         print("No spreadsheet files found to convert.")
         return
 
     for path in files:
-        batch_id = f"{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}_{slug(path.stem)}"
+        batch_id = batch_id_override or (
+            f"{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}_{slug(path.stem)}"
+        )
         program = infer_program(path, program_override)
         month_label = infer_month(path)
         drive_meta = path.with_suffix(path.suffix + ".drive.json")
@@ -581,6 +589,11 @@ def main() -> None:
         help="Upsert stg_bhi_ccm rows into patients",
     )
     parser.add_argument("--program", default=None, help="Force program BHI|CCM|RPM")
+    parser.add_argument(
+        "--batch-id",
+        default=None,
+        help="Force staging batch id (useful for fixtures / deterministic SQL)",
+    )
     args = parser.parse_args()
 
     args.imports.mkdir(parents=True, exist_ok=True)
@@ -589,7 +602,13 @@ def main() -> None:
     files: list[Path] = []
     if args.drive:
         folder_id = args.folder_id or __import__("os").environ.get("GOOGLE_DRIVE_FOLDER_ID")
-        if not folder_id:
+        creds = SECRETS / "google_credentials.json"
+        if not creds.exists():
+            print(
+                "[WARN] --drive set but secrets/google_credentials.json missing; "
+                "falling back to local imports/"
+            )
+        elif not folder_id:
             print(
                 "[WARN] --drive set but no --folder-id / GOOGLE_DRIVE_FOLDER_ID; "
                 "falling back to local imports/"
@@ -608,7 +627,7 @@ def main() -> None:
             seen.add(rp)
             uniq.append(f)
 
-    process_files(conn, uniq, args.promote, args.program)
+    process_files(conn, uniq, args.promote, args.program, args.batch_id)
     total = conn.execute("SELECT COUNT(*) AS c FROM patients").fetchone()["c"]
     staged = conn.execute("SELECT COUNT(*) AS c FROM stg_sheets").fetchone()["c"]
     print(f"DB {args.db}: patients={total} stg_sheets={staged}")

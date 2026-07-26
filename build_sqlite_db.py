@@ -22,6 +22,12 @@ DEFAULT_DB = ROOT / "data" / "sally_health.db"
 SCHEMA = ROOT / "sqlite_schema.sql"
 MERGED = ROOT / "all_patients_merged.json"
 CCD = ROOT / "ccd_parsed.json"
+# Stable IDs across hourly rebuilds (uuid5 from MRN)
+PATIENT_NS = uuid.UUID("6ba7b810-9dad-11d1-80b4-00c04fd430c8")
+
+
+def patient_id_for(mrn: str) -> str:
+    return str(uuid.uuid5(PATIENT_NS, mrn.strip()))
 
 
 def connect(db_path: Path) -> sqlite3.Connection:
@@ -45,7 +51,7 @@ def upsert_patient(conn: sqlite3.Connection, p: dict, source_fallback: str) -> s
     existing = conn.execute(
         "SELECT patient_id FROM patients WHERE mrn = ?", (mrn,)
     ).fetchone()
-    patient_id = existing["patient_id"] if existing else str(uuid.uuid4())
+    patient_id = existing["patient_id"] if existing else patient_id_for(mrn)
 
     addr = p.get("address") or {}
     if isinstance(addr, str):
@@ -282,9 +288,18 @@ def main() -> None:
     parser.add_argument(
         "--export-dump",
         type=Path,
-        default=ROOT / "sql" / "sally_health_sqlite_dump.sql",
+        default=None,
+        help="Optional path for full SQLite dump (omit to skip; reduces hourly churn)",
+    )
+    parser.add_argument(
+        "--with-dump",
+        action="store_true",
+        help="Write sql/sally_health_sqlite_dump.sql",
     )
     args = parser.parse_args()
+
+    if args.with_dump and args.export_dump is None:
+        args.export_dump = ROOT / "sql" / "sally_health_sqlite_dump.sql"
 
     conn = connect(args.db)
     apply_schema(conn)

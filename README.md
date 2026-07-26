@@ -39,12 +39,21 @@ Drive API: `pip install google-api-python-client google-auth-httplib2 google-aut
 ## Monitor (hourly automation)
 
 ```bash
-python3 monitor_patients.py --json reports/monitor.json
-python3 monitor_patients.py --postgres   # needs DATABASE_URL or PG* env
+python3 run_hourly.py                   # build → sheets → monitor
+python3 run_hourly.py --drive           # also try Drive API sync
+python3 monitor_patients.py --postgres  # needs DATABASE_URL or PG* env
 ```
 
 Checks: patient counts by source, DOB/sex completeness, name+DOB duplicates,
-import run failures, and SQLite↔Postgres drift.
+import run failures, Drive/import readiness, and SQLite↔Postgres drift.
+
+Fixture (sheets→SQL smoke test):
+
+```bash
+python3 sheets_to_sqlite.py \
+  --file fixtures/BHI_SAMPLE_Billable_Summary_Report.csv \
+  --batch-id fixture_bhi_sample --promote
+```
 
 ## Layout
 

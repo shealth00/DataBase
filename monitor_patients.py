@@ -142,6 +142,55 @@ def sqlite_report(db_path: Path) -> dict:
     return report
 
 
+def integration_status() -> dict:
+    """Report DataGrip/Postgres + Google Drive readiness for hourly runs."""
+    imports_dir = ROOT / "imports"
+    sheet_exts = {".xlsx", ".xlsm", ".csv", ".tsv"}
+    pending = []
+    if imports_dir.exists():
+        pending = sorted(
+            p.name
+            for p in imports_dir.rglob("*")
+            if p.is_file() and p.suffix.lower() in sheet_exts
+        )
+    creds = ROOT / "secrets" / "google_credentials.json"
+    folder = os.environ.get("GOOGLE_DRIVE_FOLDER_ID")
+    pg_configured = bool(os.environ.get("DATABASE_URL") or os.environ.get("PGHOST"))
+    status = {
+        "datagrip_postgres": {
+            "configured": pg_configured,
+            "reachable": None,
+            "note": (
+                "Set DATABASE_URL or PG* env to monitor local DataGrip Postgres"
+                if not pg_configured
+                else "Postgres env present; use --postgres to probe"
+            ),
+        },
+        "google_drive": {
+            "credentials_present": creds.exists(),
+            "folder_id_set": bool(folder),
+            "ready": creds.exists() and bool(folder),
+            "credentials_path": str(creds),
+            "folder_id": folder or None,
+        },
+        "local_imports": {
+            "path": str(imports_dir),
+            "pending_sheets": pending,
+            "pending_count": len(pending),
+        },
+        "sqlite_mirror": {
+            "path": str(DEFAULT_DB),
+            "exists": DEFAULT_DB.exists(),
+        },
+    }
+    if not status["google_drive"]["ready"]:
+        status["google_drive"]["note"] = (
+            "Place secrets/google_credentials.json and set GOOGLE_DRIVE_FOLDER_ID "
+            "for Drive API sync; otherwise drop exports into imports/"
+        )
+    return status
+
+
 def postgres_report() -> dict | None:
     dsn = os.environ.get("DATABASE_URL")
     if not dsn and not os.environ.get("PGHOST"):
@@ -232,7 +281,7 @@ def compare_counts(sqlite_n: int, pg: dict | None) -> list[str]:
     return notes
 
 
-def print_human(report: dict, pg: dict | None) -> None:
+def print_human(report: dict, pg: dict | None, integrations: dict | None = None) -> None:
     print("=== Sally Health patient monitor ===")
     print(f"checked_at: {report.get('checked_at')}")
     if report.get("error"):
@@ -256,6 +305,21 @@ def print_human(report: dict, pg: dict | None) -> None:
             )
     for w in report.get("warnings") or []:
         print(f"WARN: {w}")
+    if integrations:
+        drive = integrations.get("google_drive") or {}
+        imports = integrations.get("local_imports") or {}
+        pg_i = integrations.get("datagrip_postgres") or {}
+        print("--- integrations ---")
+        print(
+            f"Drive ready: {drive.get('ready')} "
+            f"(creds={drive.get('credentials_present')} folder={drive.get('folder_id_set')})"
+        )
+        print(
+            f"imports pending: {imports.get('pending_count')} "
+            f"postgres configured: {pg_i.get('configured')}"
+        )
+        if drive.get("note") and not drive.get("ready"):
+            print(f"NOTE: {drive['note']}")
     if pg:
         print("--- postgres ---")
         if pg.get("error"):
@@ -293,6 +357,7 @@ def main() -> None:
             subprocess.check_call([sys.executable, str(build), "--db", str(args.db)])
 
     report = sqlite_report(args.db)
+    integrations = integration_status()
     pg = postgres_report() if args.postgres else None
     if pg is None and args.postgres:
         pg = {"ok": False, "error": "No DATABASE_URL / PGHOST configured"}
@@ -301,9 +366,9 @@ def main() -> None:
     if drift:
         report.setdefault("warnings", []).extend(drift)
 
-    print_human(report, pg)
+    print_human(report, pg, integrations)
 
-    payload = {"sqlite": report, "postgres": pg}
+    payload = {"sqlite": report, "postgres": pg, "integrations": integrations}
     if args.json:
         args.json.parent.mkdir(parents=True, exist_ok=True)
         args.json.write_text(json.dumps(payload, indent=2))
