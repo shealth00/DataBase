@@ -304,6 +304,16 @@ def main() -> None:
     conn = connect(args.db)
     apply_schema(conn)
 
+    # Hourly rebuilds should start from a clean staging slate so sheet
+    # conversions in the same run don't accumulate duplicate batch rows.
+    conn.executescript(
+        """
+        DELETE FROM stg_bhi_ccm;
+        DELETE FROM stg_sheets;
+        """
+    )
+    conn.commit()
+
     run_id = conn.execute(
         "INSERT INTO import_runs (source, status) VALUES ('json_seed', 'running')"
     ).lastrowid

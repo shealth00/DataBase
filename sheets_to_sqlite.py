@@ -201,6 +201,10 @@ def load_sheet_rows(
     rows_loaded = 0
     bhi_rows = 0
 
+    # Replacing the same batch_id keeps fixture/hourly re-runs idempotent.
+    conn.execute("DELETE FROM stg_sheets WHERE batch_id = ?", (batch_id,))
+    conn.execute("DELETE FROM stg_bhi_ccm WHERE batch_id = ?", (batch_id,))
+
     for sheet_name, rows in sheets:
         start = 0
         if rows and looks_like_bhi_header(rows[0]):
