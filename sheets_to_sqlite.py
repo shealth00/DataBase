@@ -28,8 +28,10 @@ import re
 import sqlite3
 import sys
 import uuid
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
+
+from clock_util import utc_now
 
 ROOT = Path(__file__).resolve().parent
 DEFAULT_DB = ROOT / "data" / "sally_health.db"
@@ -379,8 +381,9 @@ def export_staging_sql(conn: sqlite3.Connection, batch_id: str, out_path: Path) 
     rows = conn.execute(
         "SELECT * FROM stg_bhi_ccm WHERE batch_id = ? ORDER BY row_id", (batch_id,)
     ).fetchall()
+    generated_at, _ = utc_now()
     lines = [
-        f"-- Staging SQL generated {datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')} batch={batch_id}",
+        f"-- Staging SQL generated {generated_at.strftime('%Y-%m-%dT%H:%M:%SZ')} batch={batch_id}",
         "-- Apply after sally_health_schema.sql (stg.bhi_ccm_summary).",
         "BEGIN;",
         "",
@@ -528,8 +531,9 @@ def process_files(
         return
 
     for path in files:
+        stamp, _ = utc_now()
         batch_id = batch_id_override or (
-            f"{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}_{slug(path.stem)}"
+            f"{stamp.strftime('%Y%m%dT%H%M%SZ')}_{slug(path.stem)}"
         )
         program = infer_program(path, program_override)
         month_label = infer_month(path)
