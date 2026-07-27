@@ -1,8 +1,8 @@
 {
   "sqlite": {
     "ok": true,
-    "checked_at": "2026-07-27T05:00:47+00:00",
-    "clock_source": "network:https://api.github.com",
+    "checked_at": "2026-07-27T06:03:40.420347+00:00",
+    "clock_source": "local",
     "engine": "sqlite",
     "db_path": "/workspace/data/sally_health.db",
     "patients": 236,
@@ -28,9 +28,31 @@
     },
     "recent_imports": [
       {
+        "run_id": 4,
+        "started_at": "2026-07-27 06:03:40",
+        "finished_at": "2026-07-27 06:03:40",
+        "source": "local_sheet",
+        "files_seen": 1,
+        "rows_loaded": 5,
+        "patients_upserted": 5,
+        "status": "ok",
+        "message": "bhi_rows=5 promote=True batch=fixture_bhi_sample"
+      },
+      {
+        "run_id": 3,
+        "started_at": "2026-07-27 06:03:36",
+        "finished_at": "2026-07-27 06:03:36",
+        "source": "json_seed",
+        "files_seen": 2,
+        "rows_loaded": 236,
+        "patients_upserted": 236,
+        "status": "ok",
+        "message": "merged=236 ccd_enriched=42 total=236"
+      },
+      {
         "run_id": 2,
-        "started_at": "2026-07-25 02:20:44",
-        "finished_at": "2026-07-25 02:20:44",
+        "started_at": "2026-07-27 06:03:33",
+        "finished_at": "2026-07-27 06:03:33",
         "source": "local_sheet",
         "files_seen": 1,
         "rows_loaded": 5,
@@ -40,8 +62,8 @@
       },
       {
         "run_id": 1,
-        "started_at": "2026-07-25 02:20:44",
-        "finished_at": "2026-07-25 02:20:44",
+        "started_at": "2026-07-27 06:03:27",
+        "finished_at": "2026-07-27 06:03:27",
         "source": "json_seed",
         "files_seen": 2,
         "rows_loaded": 236,
@@ -52,12 +74,11 @@
     ],
     "meta": {
       "patient_count": "236",
-      "built_at": "2026-07-25 02:20:44"
+      "built_at": "2026-07-27 06:03:36"
     },
     "warnings": [
       "56 patients missing DOB",
-      "193/236 patients missing sex",
-      "VM clock skewed; used network:https://api.github.com for checked_at"
+      "193/236 patients missing sex"
     ]
   },
   "postgres": null,
