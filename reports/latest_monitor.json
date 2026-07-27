@@ -1,8 +1,8 @@
 {
   "sqlite": {
     "ok": true,
-    "checked_at": "2026-07-27T17:03:22+00:00",
-    "clock_source": "network:https://api.github.com",
+    "checked_at": "2026-07-27T18:03:18.097990+00:00",
+    "clock_source": "local",
     "engine": "sqlite",
     "db_path": "/workspace/data/sally_health.db",
     "patients": 236,
@@ -29,8 +29,8 @@
     "recent_imports": [
       {
         "run_id": 2,
-        "started_at": "2026-07-27 16:09:25",
-        "finished_at": "2026-07-27 16:09:25",
+        "started_at": "2026-07-27 18:03:12",
+        "finished_at": "2026-07-27 18:03:12",
         "source": "local_sheet",
         "files_seen": 1,
         "rows_loaded": 5,
@@ -40,8 +40,8 @@
       },
       {
         "run_id": 1,
-        "started_at": "2026-07-27 16:09:25",
-        "finished_at": "2026-07-27 16:09:25",
+        "started_at": "2026-07-27 18:03:09",
+        "finished_at": "2026-07-27 18:03:09",
         "source": "json_seed",
         "files_seen": 2,
         "rows_loaded": 236,
@@ -52,12 +52,11 @@
     ],
     "meta": {
       "patient_count": "236",
-      "built_at": "2026-07-27 16:09:25"
+      "built_at": "2026-07-27 18:03:09"
     },
     "warnings": [
       "56 patients missing DOB",
-      "193/236 patients missing sex",
-      "VM clock skewed; used network:https://api.github.com for checked_at"
+      "193/236 patients missing sex"
     ]
   },
   "postgres": null,
