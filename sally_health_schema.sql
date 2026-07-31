@@ -288,6 +288,48 @@ CREATE TABLE stg.eligibility (
     loaded_at          timestamptz NOT NULL DEFAULT now()
 );
 
+-- Google Drive / Excel BHI·CCM·RPM billable summaries (via sheets_to_sqlite.py).
+-- DataGrip: open generated sql/stg_*.sql after converting Drive exports, or
+-- Import Data from File into this table, then promote into core.patients.
+CREATE TABLE stg.bhi_ccm_summary (
+    row_id          bigserial PRIMARY KEY,
+    batch_id        text NOT NULL,
+    source_file     text NOT NULL,
+    program         text,              -- BHI | CCM | RPM
+    month_label     text,              -- YYYY-MM
+    first_name      text,
+    middle_name     text,
+    last_name       text,
+    mrn             text,
+    insurance_name  text,
+    member_id       text,
+    status          text,
+    dob             text,
+    facility        text,
+    physician_name  text,
+    physician_npi   text,
+    cpt_code        text,
+    service_type    text,
+    dx1 text, dx2 text, dx3 text, dx4 text, dx5 text,
+    dx6 text, dx7 text, dx8 text, dx9 text, dx10 text,
+    raw_row         jsonb,
+    loaded_at       timestamptz NOT NULL DEFAULT now()
+);
+CREATE INDEX idx_stg_bhi_ccm_mrn ON stg.bhi_ccm_summary(mrn);
+CREATE INDEX idx_stg_bhi_ccm_batch ON stg.bhi_ccm_summary(batch_id);
+
+CREATE TABLE stg.google_sheet_raw (
+    row_id        bigserial PRIMARY KEY,
+    batch_id      text NOT NULL,
+    source_file   text NOT NULL,
+    sheet_name    text,
+    drive_file_id text,
+    row_num       integer,
+    raw_row       jsonb NOT NULL,
+    loaded_at     timestamptz NOT NULL DEFAULT now()
+);
+CREATE INDEX idx_stg_gsheet_batch ON stg.google_sheet_raw(batch_id);
+
 -- ============================================================================
 -- 7. SEED DATA — known fixed identifiers
 -- ----------------------------------------------------------------------------
@@ -356,6 +398,21 @@ UPDATE core.patients
  WHERE patient_id = '...';
 -- read:
 SELECT pgp_sym_decrypt(ssn_enc, 'YOUR_SECRET_KEY') FROM core.patients WHERE patient_id = '...';
+*/
+
+/*  --- 8e. Promote patients from Google Drive BHI/CCM staging ---
+INSERT INTO core.patients (mrn, last_name, first_name, middle_name, dob)
+SELECT DISTINCT ON (s.mrn)
+       s.mrn, s.last_name, s.first_name, NULLIF(s.middle_name,''),
+       CASE
+         WHEN s.dob ~ '^\d{4}-\d{2}-\d{2}$' THEN s.dob::date
+         WHEN s.dob ~ '^\d{1,2}/\d{1,2}/\d{4}$' THEN to_date(s.dob, 'MM/DD/YYYY')
+         ELSE NULL
+       END
+FROM stg.bhi_ccm_summary s
+WHERE NULLIF(s.mrn,'') IS NOT NULL
+  AND NOT EXISTS (SELECT 1 FROM core.patients p WHERE p.mrn = s.mrn)
+ORDER BY s.mrn, s.loaded_at DESC;
 */
 
 -- ============================================================================
