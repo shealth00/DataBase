@@ -1,7 +1,7 @@
 {
   "sqlite": {
     "ok": true,
-    "checked_at": "2026-08-02T18:01:31.154107+00:00",
+    "checked_at": "2026-08-02T19:01:27.041706+00:00",
     "clock_source": "local",
     "engine": "sqlite",
     "db_path": "/workspace/data/sally_health.db",
@@ -29,8 +29,8 @@
     "recent_imports": [
       {
         "run_id": 2,
-        "started_at": "2026-08-02 18:01:31",
-        "finished_at": "2026-08-02 18:01:31",
+        "started_at": "2026-08-02 19:01:26",
+        "finished_at": "2026-08-02 19:01:26",
         "source": "local_sheet",
         "files_seen": 1,
         "rows_loaded": 5,
@@ -40,8 +40,8 @@
       },
       {
         "run_id": 1,
-        "started_at": "2026-08-02 18:01:30",
-        "finished_at": "2026-08-02 18:01:30",
+        "started_at": "2026-08-02 19:01:24",
+        "finished_at": "2026-08-02 19:01:24",
         "source": "json_seed",
         "files_seen": 2,
         "rows_loaded": 236,
@@ -52,7 +52,7 @@
     ],
     "meta": {
       "patient_count": "236",
-      "built_at": "2026-08-02 18:01:30"
+      "built_at": "2026-08-02 19:01:24"
     },
     "warnings": [
       "56 patients missing DOB",
