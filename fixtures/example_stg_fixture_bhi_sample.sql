@@ -1,4 +1,4 @@
--- Staging SQL generated 2026-08-02T12:02:51Z batch=fixture_bhi_sample
+-- Staging SQL generated 2026-08-02T13:02:48Z batch=fixture_bhi_sample
 -- Apply after sally_health_schema.sql (stg.bhi_ccm_summary).
 BEGIN;
 
