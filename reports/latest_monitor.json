@@ -1,0 +1,87 @@
+{
+  "sqlite": {
+    "ok": true,
+    "checked_at": "2026-08-03T17:03:26.313367+00:00",
+    "clock_source": "local",
+    "engine": "sqlite",
+    "db_path": "/workspace/data/sally_health.db",
+    "patients": 236,
+    "by_source": {
+      "BHI_CCM": 193,
+      "CCD": 42,
+      "ClaimMD": 1
+    },
+    "programs": {
+      "BHI": 166,
+      "CCM": 136
+    },
+    "completeness": {
+      "missing_dob": 56,
+      "missing_sex": 193,
+      "missing_insurance": 44,
+      "missing_phone": 200
+    },
+    "duplicate_name_dob_groups": [],
+    "staging": {
+      "stg_sheets": 5,
+      "stg_bhi_ccm": 5
+    },
+    "recent_imports": [
+      {
+        "run_id": 2,
+        "started_at": "2026-08-03 17:03:26",
+        "finished_at": "2026-08-03 17:03:26",
+        "source": "local_sheet",
+        "files_seen": 1,
+        "rows_loaded": 5,
+        "patients_upserted": 5,
+        "status": "ok",
+        "message": "bhi_rows=5 promote=True batch=fixture_bhi_sample"
+      },
+      {
+        "run_id": 1,
+        "started_at": "2026-08-03 17:03:26",
+        "finished_at": "2026-08-03 17:03:26",
+        "source": "json_seed",
+        "files_seen": 2,
+        "rows_loaded": 236,
+        "patients_upserted": 236,
+        "status": "ok",
+        "message": "merged=236 ccd_enriched=42 total=236"
+      }
+    ],
+    "meta": {
+      "patient_count": "236",
+      "built_at": "2026-08-03 17:03:26"
+    },
+    "warnings": [
+      "56 patients missing DOB",
+      "193/236 patients missing sex"
+    ]
+  },
+  "postgres": null,
+  "integrations": {
+    "datagrip_postgres": {
+      "configured": false,
+      "reachable": null,
+      "note": "Set DATABASE_URL or PG* env to monitor local DataGrip Postgres"
+    },
+    "google_drive": {
+      "credentials_present": false,
+      "folder_id_set": false,
+      "ready": false,
+      "credentials_path": "/workspace/secrets/google_credentials.json",
+      "folder_id": null,
+      "note": "Place secrets/google_credentials.json and set GOOGLE_DRIVE_FOLDER_ID for Drive API sync; otherwise drop exports into imports/"
+    },
+    "local_imports": {
+      "path": "/workspace/imports",
+      "pending_sheets": [],
+      "pending_count": 0
+    },
+    "sqlite_mirror": {
+      "path": "/workspace/data/sally_health.db",
+      "exists": true
+    }
+  }
+}
